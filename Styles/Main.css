@@ -1,0 +1,59 @@
+header {
+  background: URL("../images/header-movies.jpg");
+  height: 100px;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.RTT {
+  background-image: URL("../images/RememberTheTitans1.jpg");
+  background-size: 100%;
+  color: red;
+}
+
+.WUD {
+  background-image: URL("../images/WhatsUpDoc1.jpg");
+  background-size:100%;
+  color: green;
+}
+
+.TGE {
+  background-image: URL("../images/TheGreatEscape1.jpg");
+  background-size:100%;
+  color: black;
+}
+
+.Casablanca {
+  background-image: URL("../images/Casablanca.jpg");
+  background-size:100%;
+  color: black;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  color: green;
+}
+
+footer {
+  background-image: URL("../images/header-movies.jpg");
+  height: 100px;
+  color: white;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.rotate:hover {
+  transform: rotate(60deg);
+}
+
+ol {
+  color: red;
+}
+
+.top3:hover{
+  transform: scale(1.2) rotate(30deg);
+}
